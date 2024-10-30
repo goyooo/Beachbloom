@@ -1,0 +1,142 @@
+[
+ {
+   "nombre": "Grace Bay",
+   "turistas": 12,
+   "distancia": 3,
+   "hemisferio": "S",
+   "silice": 90
+ },
+ {
+   "nombre": "Varadero",
+   "turistas": 12,
+   "distancia": 5,
+   "hemisferio": "S",
+   "silice": 90
+ },
+ {
+   "nombre": "Praia Da Falesia",
+   "turistas": 8,
+   "distancia": 6,
+   "hemisferio": "N",
+   "silice": 70
+ },
+ {
+   "nombre": "Kanapali",
+   "turistas": 6,
+   "distancia": 6,
+   "hemisferio": "N",
+   "silice": 60
+ },
+ {
+   "nombre": "Siesta",
+   "turistas": 2,
+   "distancia": 5,
+   "hemisferio": "N",
+   "silice": 90
+ },
+ {
+   "nombre": "Radhanagar",
+   "turistas": 5,
+   "distancia": 6,
+   "hemisferio": "N",
+   "silice": 70
+ },
+ {
+   "nombre": "Spiaggia Dei Conigli",
+   "turistas": 12,
+   "distancia": 6,
+   "hemisferio": "N",
+   "silice": 80
+ },
+ {
+   "nombre": "Matira",
+   "turistas": 2,
+   "distancia": 6,
+   "hemisferio": "S",
+   "silice": 70
+ },
+ {
+   "nombre": "Pink Sands",
+   "turistas": 12,
+   "distancia": 4,
+   "hemisferio": "S",
+   "silice": 50
+ },
+ {
+   "nombre": "Eagle",
+   "turistas": 11,
+   "distancia": 4,
+   "hemisferio": "S",
+   "silice": 90
+ },
+ {
+   "nombre": "Paraiso",
+   "turistas": 7,
+   "distancia": 5,
+   "hemisferio": "S",
+   "silice": 80
+ },
+ {
+   "nombre": "Bondi",
+   "turistas": 12,
+   "distancia": 6,
+   "hemisferio": "S",
+   "silice": 80
+ },
+ {
+   "nombre": "Navagio",
+   "turistas": 5,
+   "distancia": 6,
+   "hemisferio": "N",
+   "silice": 80
+ },
+ {
+   "nombre": "Elafonissi",
+   "turistas": 8,
+   "distancia": 6,
+   "hemisferio": "N",
+   "silice": 70
+ },
+ {
+   "nombre": "Seven Mile",
+   "turistas": 2,
+   "distancia": 3,
+   "hemisferio": "S",
+   "silice": 50
+ },
+ {
+   "nombre": "Baia Do Sancho",
+   "turistas": 1,
+   "distancia": 3,
+   "hemisferio": "S",
+   "silice": 70
+ },
+ {
+   "nombre": "Anse Source Dargent",
+   "turistas": 4,
+   "distancia": 3,
+   "hemisferio": "N",
+   "silice": 70
+ },
+ {
+   "nombre": "Copacabana",
+   "turistas": 7,
+   "distancia": 2,
+   "hemisferio": "N",
+   "silice": 70
+ },
+ {
+   "nombre": "Maya Bay",
+   "turistas": 6,
+   "distancia": 6,
+   "hemisferio": "N",
+   "silice": 80
+ },
+ {
+   "nombre": "Whiteheaven",
+   "turistas": 5,
+   "distancia": 6,
+   "hemisferio": "S",
+   "silice": 90
+ }
+]
