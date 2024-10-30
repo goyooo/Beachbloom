@@ -52,7 +52,7 @@
             <div class="troncos"> 
               <div class="tope"><img src="./images/tope.png" width="40" alt="tope"> </div>
                 {#each Array(n) as _,i}
-                  <img src="/srcs/Rect.png" width="30" alt="cuad">
+                  <img src="./images/Rect.png" width="30" alt="cuad">
                 {/each}
               <p style="font-family:fantasy; margin-left:-12px; margin-top:3px; font-size:20px">{n}00.000</p>
             </div>
