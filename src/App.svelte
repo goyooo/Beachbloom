@@ -33,9 +33,9 @@
 
 <div class="body" style="background-color:#CCF7F4;">
   <div class="header">
-    <img class="cangrejo" style="margin-top: -25px;" src="/src/data/cangrejo.png" width="50" alt="cangrejo">
+    <img class="cangrejo" style="margin-top: -25px;" src="./images/cangrejo.png" width="50" alt="cangrejo">
     <h3 class="headline"> BeachBlooms </h3>
-    <img class="cangrejo" style="margin-top: -25px;" src="/src/data/cangrejo.png" width="50" alt="cangrejo">
+    <img class="cangrejo" style="margin-top: -25px;" src="./images/cangrejo.png" width="50" alt="cangrejo">
     
   </div>
   <p class="subtitulo"> Las 20 playas más visitadas segun Tripadvisor como palmeras</p>
@@ -50,9 +50,9 @@
       <div class="heightref">
           {#each alturaRef as n}
             <div class="troncos"> 
-              <div class="tope"><img src="/src/data/tope.png" width="40" alt="tope"> </div>
+              <div class="tope"><img src="./images/tope.png" width="40" alt="tope"> </div>
                 {#each Array(n) as _,i}
-                  <img src="/src/data/Rect.png" width="30" alt="cuad">
+                  <img src="/srcs/Rect.png" width="30" alt="cuad">
                 {/each}
               <p style="font-family:fantasy; margin-left:-12px; margin-top:3px; font-size:20px">{n}00.000</p>
             </div>
@@ -84,9 +84,9 @@
     <div class="contIzq">
       <p class="reff">3.Cada par de hojas representa 3000km desde Buenos Aires</p>
       <div class="palms">
-        <img src="/src/data/hojas1fr.png" width="210" alt="cuad">
-        <img src="/src/data/hojas2fr.png" width="210" alt="cuad">
-        <img src="/src/data/hojas3fr.png" width="210" alt="cuad">
+        <img src="./images/hojas1fr.png" width="210" alt="cuad">
+        <img src="./images/hojas2fr.png" width="210" alt="cuad">
+        <img src="./images/hojas3fr.png" width="210" alt="cuad">
       </div>
       <div class="kmrefs">
         <p class="km">3000km</p>
@@ -99,8 +99,8 @@
     <div class="contDer">
       <p class="reff" style="margin-top: -15px;">4.Los cocos indican si la playa esta en el hemisferio sur</p>
       <div class="cocos">
-        <img src="/src/data/hn.png" width="210" alt="cuad">
-        <img src="/src/data/hs.png" width="210" alt="cuad">
+        <img src="./images/hn.png" width="210" alt="cuad">
+        <img src="./images/hs.png" width="210" alt="cuad">
         <div class="hemref">
           <p>Hemisferio Norte</p>
           <p>Hemisferio Sur</p>
@@ -115,11 +115,11 @@
       <div class="palmeras">
         <div class="hojas">
           {#if hojas(playa.distancia)<=2}
-            <img src="/src/data/hojas1fr.png" width="250" alt="hoja">
+            <img src="./images/hojas1fr.png" width="250" alt="hoja">
           {:else if hojas(playa.distancia)<=4}
-            <img src="/src/data/hojas2fr.png" width="300" alt="hoja">
+            <img src="./images/hojas2fr.png" width="300" alt="hoja">
           {:else if hojas(playa.distancia)<=6}
-            <img src="/src/data/hojas3fr.png" width="300" alt="hoja">
+            <img src="./images/hojas3fr.png" width="300" alt="hoja">
           {/if}
         </div>
 
@@ -139,7 +139,7 @@
 
         <div class="tronco">
           {#each Array(playa.turistas) as _,i}
-            <img src="/src/data/Rect.png" width="30" alt="cuad">
+            <img src="./images/Rect.png" width="30" alt="cuad">
           {/each}
         </div>
 
